@@ -1,2 +1,13 @@
-# echarts-node.js
-前端基于vue开发的echarts可视化图表,后端采用node.js开发
+
+### Project setup
+```
+node ./app.js
+```
+
+### 项目演示
+```
+https://maigewanwan.cn/
+```
+
+### 前端代码仓库
+https://github.com/yuezuochen/echarts-vue
